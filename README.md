@@ -1,4 +1,16 @@
-# AI-Powered Code Reviewer
+
+
+<h1 align="center">🤖 AI-Powered Code Reviewer</h1>
+<p align="center">Real-time AI feedback on your code using Google Gemini API</p>
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Express](https://img.shields.io/badge/Framework-Express-lightgrey)
+![Gemini](https://img.shields.io/badge/AI-Gemini-orange)
+![Tailwind](https://img.shields.io/badge/Styling-TailwindCSS-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 
 An AI-powered code review tool that analyzes your code in real time, identifies errors or bad practices, and suggests corrections with explanations. Built using **Gemini AI**, this tool provides instant feedback to help developers write clean, efficient, and maintainable code.
 
